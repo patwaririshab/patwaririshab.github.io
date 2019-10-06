@@ -206,6 +206,27 @@ experiences:
 #         authors: Edgar T. Irons
 #         conference: "Comm. ACM 4 (1961), 51–55"
 
+volunteerexperiences:
+  title: Volunteer Experiences
+
+  experiences:
+    - role: National Rover Council
+      company: The Singapore Scout Association
+      time: 2017 - Present
+      details: |
+        I have been a Scout since I was 12, my involvement in the association has spanned from unit upto international level.
+        I am also the Chairperson of the National Rover Council, which is the youth governing body for Scouts aged 17 - 26 and 
+        through this role, I have been involved in policy making and implementation at the National level.
+        
+        Key Highlights:
+          - Chairperson from Dec 2018 - Present
+          - Head of Department (Membership Growth) from Jan 2017 - Dec 2018
+          - Spearheaded national recruitment drives annd social media campaigns contributing to an increase of Rover membership by 
+          5% between 2017 - 2018
+          - Led review of national rover program (Rover Journey 2017)
+          - Directed national level scout events such as the National Photography Competition and Baden-Powell Award Ceremony 2019
+
+
 skills:
     title: Skills &amp; Proficiency
 
