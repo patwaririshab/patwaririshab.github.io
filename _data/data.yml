@@ -232,26 +232,26 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: C
-        level: 85%
-
-      - name: C++
+      - name: C, C++, C#
         level: 80%
+
+      - name: Java
+        level: 70%
       
-      - name: Verilog & VHDL
-        level: 80%
+      - name: Python
+        level: 70%
 
-      - name: Java 
+      - name: Git, Github
         level: 80%
 
       - name: React Native
         level: 60%
 
-      - name: Git
-        level: 70%
-
-      - name: HTML5 & CSS
+      - name: HTML5, CSS
         level: 60%
+
+      - name: Verilog, VHDL
+        level: 80%
 
       - name: Photoshop
         level: 60%
